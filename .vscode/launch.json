@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/laugh/Library/CloudStorage/GoogleDrive-tfcampio@my.loyno.edu/My Drive/senior/languages and paradims/imperative prog lang/imperativeproglang",
+      "program": "/Users/laugh/Library/CloudStorage/GoogleDrive-tfcampio@my.loyno.edu/My Drive/senior/languages and paradims/imperative prog lang/imperativeproglang/build/Debug/outDebug"
+    }
+  ]
+}
